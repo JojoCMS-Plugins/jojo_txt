@@ -1,0 +1,32 @@
+div.txt-form label {
+  float: left;
+  width: 150px;
+  display: block;
+  text-align: right;
+  margin-right: 5px;
+  margin-bottom: 3px;
+}
+
+div.txt-form input, div.txt-form select, div.txt-form textarea {
+  float: left;
+  margin-bottom: 3px;
+}
+
+div.txt-form br {
+  clear: left;
+  margin-bottom: 3px;
+}
+
+div.form-field {
+  float: left;
+  margin-bottom: 3px;
+  width: 300px;
+}
+
+div.form-field label {
+  float: none;
+  width: auto;
+  display: inline;
+  text-align: left;
+  margin-left: 5px;
+}
